@@ -1,0 +1,1 @@
+The datasets for the manuscript entitled Co-occurrence Patterns and Environmental Drivers of PFAS in Urban Source Waters: Mechanistic Insights from Explainable AI. One is imputed dataset, the other is non-imputed dataset.
